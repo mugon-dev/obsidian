@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "7460d04cc1f79d39",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a3478855acf9c76",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/파트 개요 및 실습 준비/컨테이너 기술의 발전.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea3cc9ed5700f2ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd8d91d0b5f96dfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a62ab956e9e845b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "67c21b4d31971a50",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b2d70c52c056a7cb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "48c1d8422cbe1d73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a3dbaa422330ce9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "577936bd6a98df4f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "13520328d2226489",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc418bd7ffe1479e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "484d5f5f1c58febc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/파트 개요 및 실습 준비/컨테이너 기술의 발전.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "edbbbcde1c0da2fb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/파트 개요 및 실습 준비/컨테이너 기술의 발전.md"
+              }
+            }
+          },
+          {
+            "id": "ae4800b5e91fbc6a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "116f7b9e7f934e02",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "bc9c30264c5e43bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3680172496b1f803",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/파트 개요 및 실습 준비/컨테이너 기술의 발전.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "12e008d7243a9f87",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "b2d70c52c056a7cb",
+  "lastOpenFiles": [
+    "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/파트 개요 및 실습 준비/컨테이너 기술의 발전.md"
+  ]
+}
