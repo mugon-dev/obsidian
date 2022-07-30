@@ -1,24 +1,80 @@
 {
   "recentFiles": [
     {
-      "basename": "도커 컨테이너 명령어",
-      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커를 이용한 컨테이너 관리/도커 컨테이너 명령어.md"
+      "basename": "실습",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커를 이용한 컨테이너 관리/실습.md"
     },
     {
-      "basename": "컨테이너 기술의 발전",
-      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/파트 개요 및 실습 준비/컨테이너 기술의 발전.md"
+      "basename": "0.도커를 이용한 컨테이너 관리",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커를 이용한 컨테이너 관리/0.도커를 이용한 컨테이너 관리.md"
+    },
+    {
+      "basename": "도커 컴포즈",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커를 이용한 컨테이너 관리/도커 컴포즈.md"
+    },
+    {
+      "basename": "도커 데몬 디버깅",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커를 이용한 컨테이너 관리/도커 데몬 디버깅.md"
+    },
+    {
+      "basename": "도커 이미지 경량화",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커를 이용한 컨테이너 관리/도커 이미지 경량화.md"
+    },
+    {
+      "basename": "도커 이미지",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커를 이용한 컨테이너 관리/도커 이미지.md"
+    },
+    {
+      "basename": "도커 파일",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커를 이용한 컨테이너 관리/도커 파일.md"
+    },
+    {
+      "basename": "도커 볼륨",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커를 이용한 컨테이너 관리/도커 볼륨.md"
+    },
+    {
+      "basename": "도커 로그",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커를 이용한 컨테이너 관리/도커 로그.md"
+    },
+    {
+      "basename": "도커 네트워크",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커를 이용한 컨테이너 관리/도커 네트워크.md"
+    },
+    {
+      "basename": "도커 네트워크 드라이버",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커를 이용한 컨테이너 관리/도커 네트워크 드라이버.md"
+    },
+    {
+      "basename": "컨테이너 관리",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커를 이용한 컨테이너 관리/컨테이너 관리.md"
+    },
+    {
+      "basename": "환경변수",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커를 이용한 컨테이너 관리/환경변수.md"
+    },
+    {
+      "basename": "엔트리포인트와 커맨드",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커를 이용한 컨테이너 관리/엔트리포인트와 커맨드.md"
+    },
+    {
+      "basename": "명령어 실행",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커를 이용한 컨테이너 관리/명령어 실행.md"
     },
     {
       "basename": "도커이미지와 컨테이너",
       "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커를 이용한 컨테이너 관리/도커이미지와 컨테이너.md"
     },
     {
-      "basename": "도커를 이용한 컨테이너 관리",
-      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커를 이용한 컨테이너 관리/도커를 이용한 컨테이너 관리.md"
+      "basename": "도커 컨테이너 명령어",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커를 이용한 컨테이너 관리/도커 컨테이너 명령어.md"
     },
     {
       "basename": "도커 컨테이너 라이프사이클",
       "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커를 이용한 컨테이너 관리/도커 컨테이너 라이프사이클.md"
+    },
+    {
+      "basename": "컨테이너 기술의 발전",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/파트 개요 및 실습 준비/컨테이너 기술의 발전.md"
     },
     {
       "basename": "미니쿠베 사용법",
