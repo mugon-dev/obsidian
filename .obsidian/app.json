@@ -1,5 +1,7 @@
 {
   "communityPluginSortOrder": "download",
   "showLineNumber": true,
-  "showFrontmatter": true
+  "showFrontmatter": true,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "image"
 }

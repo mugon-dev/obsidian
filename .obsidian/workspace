@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6a3478855acf9c76",
+        "id": "d632576cf25e2b0f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/파트 개요 및 실습 준비/컨테이너 기술의 발전.md",
+            "file": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커를 이용한 컨테이너 관리/도커 컨테이너 명령어.md",
             "mode": "source",
             "source": false
           }
@@ -25,6 +25,7 @@
       {
         "id": "dd8d91d0b5f96dfc",
         "type": "tabs",
+        "dimension": 80.91603053435115,
         "children": [
           {
             "id": "a62ab956e9e845b6",
@@ -40,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#컨테이너",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,6 +64,7 @@
       {
         "id": "48c1d8422cbe1d73",
         "type": "tabs",
+        "dimension": 19.083969465648856,
         "children": [
           {
             "id": "9a3dbaa422330ce9",
@@ -100,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/파트 개요 및 실습 준비/컨테이너 기술의 발전.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,13 +113,19 @@
             }
           },
           {
+            "id": "6a3478855acf9c76",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "edbbbcde1c0da2fb",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/파트 개요 및 실습 준비/컨테이너 기술의 발전.md"
-              }
+              "state": {}
             }
           },
           {
@@ -138,7 +145,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "bc9c30264c5e43bf",
@@ -150,7 +157,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/파트 개요 및 실습 준비/컨테이너 기술의 발전.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,10 +178,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 535.5
   },
   "active": "b2d70c52c056a7cb",
   "lastOpenFiles": [
-    "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/파트 개요 및 실습 준비/컨테이너 기술의 발전.md"
+    "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커를 이용한 컨테이너 관리/도커 컨테이너 명령어.md",
+    "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/파트 개요 및 실습 준비/컨테이너 기술의 발전.md",
+    "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커를 이용한 컨테이너 관리/도커이미지와 컨테이너.md",
+    "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커를 이용한 컨테이너 관리/도커를 이용한 컨테이너 관리.md",
+    "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커를 이용한 컨테이너 관리/도커 컨테이너 라이프사이클.md",
+    "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/파트 개요 및 실습 준비/미니쿠베 사용법.md",
+    "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/파트 개요 및 실습 준비/minikube.md",
+    "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/파트 개요 및 실습 준비/kubectl.md",
+    "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/파트 개요 및 실습 준비/파트 개요 및 실습 준비.md",
+    "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/파트 개요 및 실습 준비/ubunto 에서 도커 설치.md"
   ]
 }

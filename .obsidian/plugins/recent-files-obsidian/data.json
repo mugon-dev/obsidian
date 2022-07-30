@@ -1,8 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "도커 컨테이너 명령어",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커를 이용한 컨테이너 관리/도커 컨테이너 명령어.md"
+    },
+    {
       "basename": "컨테이너 기술의 발전",
       "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/파트 개요 및 실습 준비/컨테이너 기술의 발전.md"
+    },
+    {
+      "basename": "도커이미지와 컨테이너",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커를 이용한 컨테이너 관리/도커이미지와 컨테이너.md"
+    },
+    {
+      "basename": "도커를 이용한 컨테이너 관리",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커를 이용한 컨테이너 관리/도커를 이용한 컨테이너 관리.md"
+    },
+    {
+      "basename": "도커 컨테이너 라이프사이클",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커를 이용한 컨테이너 관리/도커 컨테이너 라이프사이클.md"
+    },
+    {
+      "basename": "미니쿠베 사용법",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/파트 개요 및 실습 준비/미니쿠베 사용법.md"
+    },
+    {
+      "basename": "minikube",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/파트 개요 및 실습 준비/minikube.md"
+    },
+    {
+      "basename": "kubectl",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/파트 개요 및 실습 준비/kubectl.md"
+    },
+    {
+      "basename": "파트 개요 및 실습 준비",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/파트 개요 및 실습 준비/파트 개요 및 실습 준비.md"
+    },
+    {
+      "basename": "ubunto 에서 도커 설치",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/파트 개요 및 실습 준비/ubunto 에서 도커 설치.md"
+    },
+    {
+      "basename": "TOC",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/TOC.md"
     }
   ],
   "omittedPaths": [],
