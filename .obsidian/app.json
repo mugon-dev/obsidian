@@ -3,5 +3,7 @@
   "showLineNumber": true,
   "showFrontmatter": true,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "image"
+  "attachmentFolderPath": "image",
+  "promptDelete": false,
+  "fileSortOrder": "alphabetical"
 }

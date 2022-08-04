@@ -14,5 +14,13 @@
       ],
       "key": "["
     }
+  ],
+  "file-explorer:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "1"
+    }
   ]
 }

@@ -1,6 +1,102 @@
 {
   "recentFiles": [
     {
+      "basename": "4.2 Sonarqube 코드품질 설정 및 Docker 빌드 스캔 수행",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커 활용/4. 코드품질을 위한 Sonarqube 활용/4.2 Sonarqube 코드품질 설정 및 Docker 빌드 스캔 수행.md"
+    },
+    {
+      "basename": "4.1 Sonarqube 설치 및 유저 생성",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커 활용/4. 코드품질을 위한 Sonarqube 활용/4.1 Sonarqube 설치 및 유저 생성.md"
+    },
+    {
+      "basename": "0.도커 활용",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커 활용/0.도커 활용.md"
+    },
+    {
+      "basename": "4. 코드품질을 위한 Sonarqube 활용 소개",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커 활용/4. 코드품질을 위한 Sonarqube 활용/4. 코드품질을 위한 Sonarqube 활용 소개.md"
+    },
+    {
+      "basename": "2. Docker 빌드를 위한 Jenkins 활용",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커 활용/2. Docker빌드를 위한 Jenkins pipeline활용/2. Docker 빌드를 위한 Jenkins 활용.md"
+    },
+    {
+      "basename": "1.프로세스,다이어그램",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커 활용/1.프로세스,다이어그램.md"
+    },
+    {
+      "basename": "3.3 Nexus Artifact를 활용한 Docker 빌드",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커 활용/3. Artifact 관리를 위한 Nexus 활용/3.3 Nexus Artifact를 활용한 Docker 빌드.md"
+    },
+    {
+      "basename": "3.2 AWS S3 연결 Blob Store 및 Repository 생성",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커 활용/3. Artifact 관리를 위한 Nexus 활용/3.2 AWS S3 연결 Blob Store 및 Repository 생성.md"
+    },
+    {
+      "basename": "3.1 Nexus 설치 및 AWS S3 연결",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커 활용/3. Artifact 관리를 위한 Nexus 활용/3.1 Nexus 설치 및 AWS S3 연결.md"
+    },
+    {
+      "basename": "3. Arifat관리를 위한 Nexus 활용소개",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커 활용/3. Artifact 관리를 위한 Nexus 활용/3. Arifat관리를 위한 Nexus 활용소개.md"
+    },
+    {
+      "basename": "도커 컨테이너 명령어",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커를 이용한 컨테이너 관리/도커 컨테이너 명령어.md"
+    },
+    {
+      "basename": "명령어 실행",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커를 이용한 컨테이너 관리/명령어 실행.md"
+    },
+    {
+      "basename": "2.3.2 Jenkinsfile",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커 활용/2. Docker빌드를 위한 Jenkins pipeline활용/2.3.2 Jenkinsfile.md"
+    },
+    {
+      "basename": "2.3.1 Job Pipeline",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커 활용/2. Docker빌드를 위한 Jenkins pipeline활용/2.3.1 Job Pipeline.md"
+    },
+    {
+      "basename": "2.3 Jenkins를 활용한 Docker 빌드",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커 활용/2. Docker빌드를 위한 Jenkins pipeline활용/2.3 Jenkins를 활용한 Docker 빌드.md"
+    },
+    {
+      "basename": "2.2 Jenkins 소개",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커 활용/2. Docker빌드를 위한 Jenkins pipeline활용/2.2 Jenkins 소개.md"
+    },
+    {
+      "basename": "2.1 Gradle을 활용한 빌드",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커 활용/2. Docker빌드를 위한 Jenkins pipeline활용/2.1 Gradle을 활용한 빌드.md"
+    },
+    {
+      "basename": "2.1.1 실습",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커 활용/2. Docker빌드를 위한 Jenkins pipeline활용/2.1.1 실습.md"
+    },
+    {
+      "basename": "2.2.3 인증 설정",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커 활용/2. Docker빌드를 위한 Jenkins pipeline활용/2.2.3 인증 설정.md"
+    },
+    {
+      "basename": "2.2.2 Jenkins plugin 설치",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커 활용/2. Docker빌드를 위한 Jenkins pipeline활용/2.2.2 Jenkins plugin 설치.md"
+    },
+    {
+      "basename": "2.2.1 Jenkins 설치",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커 활용/2. Docker빌드를 위한 Jenkins pipeline활용/2.2.1 Jenkins 설치.md"
+    },
+    {
+      "basename": "엔트리포인트와 커맨드",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커를 이용한 컨테이너 관리/엔트리포인트와 커맨드.md"
+    },
+    {
+      "basename": "미니쿠베 사용법",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/파트 개요 및 실습 준비/미니쿠베 사용법.md"
+    },
+    {
+      "basename": "컨테이너 기술의 발전",
+      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/파트 개요 및 실습 준비/컨테이너 기술의 발전.md"
+    },
+    {
       "basename": "실습",
       "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커를 이용한 컨테이너 관리/실습.md"
     },
@@ -53,32 +149,12 @@
       "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커를 이용한 컨테이너 관리/환경변수.md"
     },
     {
-      "basename": "엔트리포인트와 커맨드",
-      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커를 이용한 컨테이너 관리/엔트리포인트와 커맨드.md"
-    },
-    {
-      "basename": "명령어 실행",
-      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커를 이용한 컨테이너 관리/명령어 실행.md"
-    },
-    {
       "basename": "도커이미지와 컨테이너",
       "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커를 이용한 컨테이너 관리/도커이미지와 컨테이너.md"
     },
     {
-      "basename": "도커 컨테이너 명령어",
-      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커를 이용한 컨테이너 관리/도커 컨테이너 명령어.md"
-    },
-    {
       "basename": "도커 컨테이너 라이프사이클",
       "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/도커를 이용한 컨테이너 관리/도커 컨테이너 라이프사이클.md"
-    },
-    {
-      "basename": "컨테이너 기술의 발전",
-      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/파트 개요 및 실습 준비/컨테이너 기술의 발전.md"
-    },
-    {
-      "basename": "미니쿠베 사용법",
-      "path": "fastcampus/Kubernetes와 Docker로 한 번에 끝내는 컨테이너 기반 MSA/파트 개요 및 실습 준비/미니쿠베 사용법.md"
     },
     {
       "basename": "minikube",
